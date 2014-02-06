@@ -1,0 +1,11 @@
+== README
+
+* Obtain ruby 2.0.0+, rails 4+ (gem install rails). Recommend rvm for ruby management
+
+* Clone this repo and navigate to directory in terminal
+
+* `bundle install`
+
+* `rails s`
+
+* Open browser to localhost:3000
